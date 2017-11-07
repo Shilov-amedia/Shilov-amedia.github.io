@@ -1,0 +1,46 @@
+{
+	"second-carousel":[
+	{
+	  "links-on-site": "https://www.amediateka.ru/serial/vikingi",
+	  "links-on-img": "blocks/vikings.png",
+	  "alt-img": "vikings",
+	  "title-of-serials": "Викинги",
+	  "title_of_serials_eng": "Vikings",
+	  "number_of_seasons": "5 сезон"
+	},
+	{
+	  "links-on-site": "https://www.amediateka.ru/serial/amerikanskaya-istoriya-uzhasov",
+	  "links-on-img": "blocks/history.png",
+	  "alt-img": "American-horror-story",
+	  "title-of-serials": "Американская история ужасов",
+	  "title_of_serials_eng": "American Horror Story",
+	  "number_of_seasons": "7 сезон"
+	},
+	{
+	  "links-on-site": "https://www.amediateka.ru/serial/horoshiy-doktor-f2cdc744-6d7f-41ed-a316-d39db0173a17",
+	  "links-on-img": "blocks/doctor.png",
+	  "alt-img": "The-good-doctor",
+	  "title-of-serials": "Хороший доктор",
+	  "title_of_serials_eng": "The Good Doctor",
+	  "number_of_seasons": ""
+	},
+	{
+	  "links-on-site": "https://www.amediateka.ru/serial/tvin-piks",
+	  "links-on-img": "blocks/tvin-piks.png",
+	  "alt-img": "Tvin-peacs",
+	  "title-of-serials": "Твин Пикс",
+	  "title_of_serials_eng": "Twin Peacs",
+	  "number_of_seasons": "3 сезон"
+	},
+	{
+	  "links-on-site": "https://www.amediateka.ru/serial/bolshaya-malenkaya-lozh",
+	  "links-on-img": "blocks/big_little_lies.png",
+	  "alt-img": "big_little_lies",
+	  "title-of-serials": "Большая маленькая ложь",
+	  "title_of_serials_eng": "Big Little lies",
+	  "number_of_seasons": "1 сезон"
+	}
+
+]	 
+	
+}
